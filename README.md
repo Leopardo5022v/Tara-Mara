@@ -1,3 +1,5 @@
+TareaMara
+
 String mensaje="Color elegido: ";
         
         if (optRojo.isSelected()) {
